@@ -9,8 +9,6 @@ public class gpa
     public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
-        //I know this wasn't how I was shown to create a list in class, but I forgot and when I looked it up this is how I was shown to create one by the internet.
-
 
         System.out.println("How many classes did you have this semester? ");
         int ClassNum = in.nextInt();
