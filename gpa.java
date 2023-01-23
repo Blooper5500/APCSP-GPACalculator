@@ -3,6 +3,8 @@
    Started 1/13/23
 */
 
+//Comments Received: Lines 18 - 61+63 should be in a function
+
 import java.util.Scanner;
 public class gpa
 {
